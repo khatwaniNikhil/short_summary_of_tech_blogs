@@ -1,5 +1,7 @@
 # References
-https://www.youtube.com/watch?v=PE4gwstWhmc
+1. https://www.youtube.com/watch?v=PE4gwstWhmc
+2.https://www.youtube.com/watch?v=f981i3INNXM (todo)
+3. https://dropbox.tech/infrastructure/streaming-file-synchronization (TODO)
 
 # Core Theme
 how dropbox dealt with the technical backend challenges with very minimal resources 
